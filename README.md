@@ -177,5 +177,4 @@ FC模拟器网页效果图
 
 |   | 影之传说 (J) Kage no Densetsu [!] | roms/(J) Kage no Densetsu [!].nes | 
 
-## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=lucaschungzsj/fcgame&type=Date)](https://star-history.com/#lucaschungzsj/fcgame&Date)
+
