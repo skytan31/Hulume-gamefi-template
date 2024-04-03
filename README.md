@@ -19,9 +19,9 @@ BosWytfX68PKcY44FoVDYRWH6XquRKej41FYiHTWRYCP   Min 1 SOL  ~  MAX  9999 SOL
 HULUME Donate ADDress on Solana ：Awd4mbXEigFcKWkYRczvdGLoJBYUihxB7ZzTLgzrVg59
 
 
-Our cord Group    https://t .co/3jEc2ZtFg6
+Our cord Group    https: //t .co/3jEc2ZtFg6
 
-Plan A  https://t .co/sPSYaEKtpL
+Plan A  https: //t .co/sPSYaEKtpL
 
 
 
