@@ -10,6 +10,11 @@ Hulume bring new horizon
 
 
 
+
+
+
+
+
 Sol chain crowd is ondoing
 
 Hulume
@@ -18,6 +23,8 @@ BosWytfX68PKcY44FoVDYRWH6XquRKej41FYiHTWRYCP   Min 1 SOL  ~  MAX  9999 SOL
 
 
 HULUME Donate ADDress on Solana ：Awd4mbXEigFcKWkYRczvdGLoJBYUihxB7ZzTLgzrVg59
+🔥🔥
+
 
 
 Our cord Group    https: //t .co/3jEc2ZtFg6
@@ -27,14 +34,19 @@ Plan A  https: //t .co/sPSYaEKtpL
 
 
 
-# FCGame - FC/NES模拟器
-- **FC/NES模拟器，在线畅玩八十款任天堂红白机游戏，小霸王游戏机其乐无穷。支持魂斗罗/超级玛丽/双截龙等等几十款任天堂红白机游戏。**
-- 非常适合在手机/电脑上在线游玩，近乎完美的还原任天堂FC/NES原版ROM游戏的视频和声音。
 
-## FC模拟器网页效果图
+
+ FCGame - FC/NES模拟器
+ 
+  FC/NES模拟器，在线畅玩八十款任天堂红白机游戏，小霸王游戏机其乐无穷。支持魂斗罗/超级玛丽/双截龙等等几十款任天堂红白机游戏。**
+ 非常适合在手机/电脑上在线游玩，近乎完美的还原任天堂FC/NES原版ROM游戏的视频和声音。
+
+
+FC模拟器网页效果图
 基于jsnes开源项目进行二次开发实现的网页在线玩fc游戏
 
-### 横屏效果
+
+横屏效果
 ![横屏预览](/static/landscape_mode.png)
 
 ### 竖屏效果
