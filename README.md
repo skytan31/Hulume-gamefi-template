@@ -9,16 +9,7 @@ Hulume bring new horizon
 🔥🔥
 
 
-
-
-
-
-
-
-
-
-
-Sol chain crowd is ondoing
+Hulume onSol chain crowd is open
 
 Hulume
 Crowd address:
@@ -35,7 +26,7 @@ HULUME Donate ADDress on Solana ：Awd4mbXEigFcKWkYRczvdGLoJBYUihxB7ZzTLgzrVg59
 
 
 
-Our cord Group    https: //t .co/3jEc2ZtFg6
+HULUME cord Group    https: //t .co/3jEc2ZtFg6
 
 Plan A  https: //t .co/sPSYaEKtpL
 
