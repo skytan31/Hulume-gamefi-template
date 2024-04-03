@@ -1,5 +1,5 @@
 
-http://sgc683.xyz/phone/
+http://sgc683 .xyz/phone/
 
 # FCGame - FC/NES模拟器
 - **FC/NES模拟器，在线畅玩八十款任天堂红白机游戏，小霸王游戏机其乐无穷。支持魂斗罗/超级玛丽/双截龙等等几十款任天堂红白机游戏。**
