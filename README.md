@@ -37,13 +37,18 @@ Plan A                                https: //t .co/sPSYaEKtpL
 
  FCGame - FC/NES模拟器
  
-  FC/NES模拟器，在线畅玩八十款任天堂红白机游戏， 游戏机其乐无穷。支持魂斗罗/超级玛丽/双截龙等等几十款 红白机游戏 
+  FC/NES模拟器，在线畅玩八十款任天堂红白机游戏， 游戏机其乐无穷。支持魂斗罗/超级 马 丽/双截龙等等几十款 红白机游戏 
  非常适合在手机/电脑上在线 ，近乎完美的还原 FC/NES原版ROM游戏的视频和声音。
-
+ 
+FC/NES emulator, you can play 80 NES games online, and you will have endless fun with the game console. Supports dozens of NES games such as Contra/Super Mario/Double Dragon
+ It is very suitable for online use on mobile phones/computers, and almost perfectly restores the video and sound of FC/NES original ROM games.
+ 
 
 FC模拟器网页效果图
 基于jsnes开源项目进行二次开发实现的网页在线 fc游戏
 
+FC simulator web page renderings
+A web online FC game implemented through secondary development based on the jsnes open source project
 
 横屏效果
 ![横屏预览](/static/landscape_mode.png)
