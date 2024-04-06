@@ -1,8 +1,7 @@
 
 Gaming now  back to future back to childhood
 
- sgc683 .xyz/phone/
-
+ sgc683 .xyz/ 
 
 Hulume bring new horizon
 
