@@ -3,9 +3,9 @@ Gaming now  back to future back to childhood
 
  sgc683 .xyz/ 
 
-Hulume bring new horizon
+🔥Hulume bring new horizon
 
-🔥🔥
+
 
 
 Hulume onSol chain crowd is open
@@ -16,9 +16,9 @@ BosWytfX68PKcY44FoVDYRWH6XquRKej41FYiHTWRYCP   Min 1 SOL  ~  MAX  9999 SOL
 
 
 
-HULUME Donate ADDress on Solana ：Awd4mbXEigFcKWkYRczvdGLoJBYUihxB7ZzTLgzrVg59
+🔥HULUME Donate ADDress on Solana ：Awd4mbXEigFcKWkYRczvdGLoJBYUihxB7ZzTLgzrVg59
 
-🔥🔥
+
 
 
 
