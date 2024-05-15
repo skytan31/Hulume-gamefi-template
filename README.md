@@ -49,13 +49,7 @@ FC模拟器网页效果图
 
 FC simulator web page renderings A web online FC game implemented through secondary development based on the jsnes open source project
 
-横屏效果
 
-![横屏预览](/static/landscape_mode.png)
-
-### 竖屏效果
-
-![竖屏预览](/static/portrait_mode.png)
 
 ## 按键说明：
 
