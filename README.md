@@ -54,16 +54,22 @@ HULUME Donate ADDress on Solana ：Awd4mbXEigFcKWkYRczvdGLoJBYUihxB7ZzTLgzrVg59
  
  nintendo minion
  
-FC/NES emulator, you can play 80 NES games online, and you will have endless fun with the game console. Supports dozens of NES games such as Contra/Super Mario/Double Dragon
+FC/NES emulator, you can play 80 NES games online, and you will have endless fun with the game console. 
 
- It is very suitable for online use on mobile phones/computers, and almost perfectly restores the video and sound of FC/NES original ROM games.
+Supports dozens of NES games such as Contra/Super Mario/Double Dragon
+
+ It is very suitable for online use on mobile phones/computers, 
+ 
+ and almost perfectly restores the video and sound of FC/NES original ROM games.
  
 
 FC 模 拟 器 网 页 效 果 图
 
 基 于 jsnes 开 源 项 目 进 行 二 次 开 发 实 现 的 网 页 在 线  fc 游 戏 
 
-FC simulator web page renderings A web online FC game implemented through secondary development based on the jsnes open source project
+FC simulator web page renderings A web online FC game implemented through 
+
+secondary development based on the jsnes open source project
 
 
 
@@ -170,8 +176,11 @@ FC simulator web page renderings A web online FC game implemented through second
 | 双 龙 | - | - |
 
 |   | 双 龙 2 Double Dragon2 [!] | roms/Double Dragon2.nes | 
+
 |   | 双 龙 1 Double Dragon1 | roms/Double Dragon1.nes | 
+
 |   | 双 龙 3 Double Dragon3 | roms/Double Dragon3.nes | 
+
 |   | 双 龙 4 Double Dragon4 | roms/Double Dragon4.nes | 
 
 | 淘 金 者 | - | - |
