@@ -10,7 +10,7 @@ Hulume come to be leading yellow unicorn
 
 Gaming now  back to future back to kids
 
- Hulume .xyz
+ 
 
 
 Hulume bring new horizon
@@ -36,7 +36,6 @@ HULUME Donate ADDress on Solana ：Awd4mbXEigFcKWkYRczvdGLoJBYUihxB7ZzTLgzrVg59
 
 
  
-  HULUME 
 
 
 
