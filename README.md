@@ -1,41 +1,14 @@
-Hulume come to be leading yellow unicorn
-
-Hulume come to be leading yellow unicorn
+Hulume come to be leading yellow U
 
 
-Hulume come to be leading yellow unicorn
-
-
-
-
-Gaming now  back to future back to kids
+now  back to future back to kids
 
  
-
-
-Hulume bring new horizon
- 
-
-
-
-
-Hulume on Solana chain crowd is open
-
-
-
-Crowd address:
-
-BosWytfX68PKcY44FoVDYRWH6XquRKej41FYiHTWRYCP  
-
-
 
 HULUME Donate 
 
 ADDress on 
-
-Solana ：Awd4mbXEigFcKWkYRczvdGLoJBYUihxB7ZzTLgzrVg59
-
-
+ 
 
 
 
